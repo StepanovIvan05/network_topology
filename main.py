@@ -1,3 +1,6 @@
+"""
+Модуль для определения типа топологии сети
+"""
 from enum import Enum
 from typing import List, Tuple
 
